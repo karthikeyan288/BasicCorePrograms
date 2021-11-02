@@ -15,11 +15,6 @@ public class PowerOfTwo {
 	}
 }			
 			
-		//if (value<=31) {	
-		//}else {
-			//System.out.println("The number is above 31");
-		//}
-		
 		
 		
 		
